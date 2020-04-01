@@ -1,7 +1,10 @@
 # deep learning object detection
 A paper list of object detection using deep learning. I wrote this page with reference to [this survey paper](https://arxiv.org/pdf/1809.02165v1.pdf) and searching and searching.. 
+
 awesome object detection: [link](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
+
 *Last updated: 2020/01/13*
+
 
 #### Update log
 *2018/9/18* - update all of recent papers and make some diagram about history of object detection using deep learning. 
